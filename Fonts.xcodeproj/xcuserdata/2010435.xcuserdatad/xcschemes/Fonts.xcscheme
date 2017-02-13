@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6381B77D1E3F8FED00DBE92B"
+               BlueprintIdentifier = "B61C330D1BA73A2B0055C5E5"
                BuildableName = "Fonts.app"
                BlueprintName = "Fonts"
                ReferencedContainer = "container:Fonts.xcodeproj">
@@ -28,31 +28,11 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6381B7911E3F8FEE00DBE92B"
-               BuildableName = "FontsTests.xctest"
-               BlueprintName = "FontsTests"
-               ReferencedContainer = "container:Fonts.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6381B79C1E3F8FEE00DBE92B"
-               BuildableName = "FontsUITests.xctest"
-               BlueprintName = "FontsUITests"
-               ReferencedContainer = "container:Fonts.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6381B77D1E3F8FED00DBE92B"
+            BlueprintIdentifier = "B61C330D1BA73A2B0055C5E5"
             BuildableName = "Fonts.app"
             BlueprintName = "Fonts"
             ReferencedContainer = "container:Fonts.xcodeproj">
@@ -75,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6381B77D1E3F8FED00DBE92B"
+            BlueprintIdentifier = "B61C330D1BA73A2B0055C5E5"
             BuildableName = "Fonts.app"
             BlueprintName = "Fonts"
             ReferencedContainer = "container:Fonts.xcodeproj">
@@ -94,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6381B77D1E3F8FED00DBE92B"
+            BlueprintIdentifier = "B61C330D1BA73A2B0055C5E5"
             BuildableName = "Fonts.app"
             BlueprintName = "Fonts"
             ReferencedContainer = "container:Fonts.xcodeproj">
